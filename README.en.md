@@ -1,36 +1,16 @@
 # DM-H3510
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+## Overview
+- Translation pending.
+- Use [README.md](README.md) as the current main entry for this model.
 
-#### Software Architecture
-Software architecture description
+## Documentation / Resources
+- [README.md](README.md) - current entry page
+- [DM-H3510轮毂电机说明书.pdf](DM-H3510轮毂电机说明书.pdf) - main manual
 
-#### Installation
+## Quick Start
+- Open [README.md](README.md) first, then select the manual or model file according to your task.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Status
+- EN: translation pending
+- ZH: source material exists in this subtree
