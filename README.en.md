@@ -1,7 +1,7 @@
 # DM-H3510
 
 ## Overview
-- Translation pending.
+- Supplemental translation note.
 - Use [README.md](README.md) as the current main entry for this model.
 
 ## Documentation / Resources
@@ -12,5 +12,5 @@
 - Open [README.md](README.md) first, then select the manual or model file according to your task.
 
 ## Status
-- EN: translation pending
-- ZH: source material exists in this subtree
+- EN: note page
+- ZH: source files remain in this subtree

@@ -1,19 +1,19 @@
 # DM-H3510
 
-## 概述
-- 这里是 `DM-H3510` 轮毂电机的资料入口。
-- 当前公开资料集中在说明书、参数文档和三维模型。
+## Overview
+- This is the entry page for the `DM-H3510` hub motor materials.
+- The current public package mainly includes manuals, an additional reference PDF, and a 3D model.
 
-## 文档 / 资源
-- [DM-H3510轮毂电机说明书.pdf](DM-H3510轮毂电机说明书.pdf) - 先看接口、参数和使用说明。
-- [3510 轮毂电机-241112.pdf](3510%20轮毂电机-241112.pdf) - 当前目录中的补充资料文档。
-- [DM3510-20250206_1.stp](DM3510-20250206_1.stp) - 三维模型文件。
+## Documentation / Resources
+- [DM-H3510轮毂电机说明书.pdf](DM-H3510轮毂电机说明书.pdf) - start here for interfaces, parameters, and usage notes.
+- [3510 轮毂电机-241112.pdf](3510%20轮毂电机-241112.pdf) - additional reference document in this folder.
+- [DM3510-20250206_1.stp](DM3510-20250206_1.stp) - 3D model file.
 
-## 快速开始
-- 如果你第一次进入本目录，先看 `DM-H3510轮毂电机说明书.pdf`。
-- 如果你要做结构集成，再下载 `stp` 模型文件。
+## Quick Start
+- Read `DM-H3510轮毂电机说明书.pdf` first.
+- Download the `stp` file if your current task is mechanical integration.
 
-## 状态
-- ZH: 主版入口
-- EN: Translation pending
-- TBD: 更细的调试或升级说明后续按独立文档补齐
+## Status
+- EN: main entry
+- ZH: source files remain in this subtree
+- TBD: deeper setup or upgrade flow can be added later as a dedicated document
